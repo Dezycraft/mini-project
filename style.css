@@ -21,7 +21,7 @@
     /* starting point */
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1);
     /* this adds the "card" effect */
-    min-height: 80vh;
+    min-height: 85vh;
     min-width: 34vw;
     background-color: rgba(255, 255, 255, 0.912);
     border-radius: 20px;
